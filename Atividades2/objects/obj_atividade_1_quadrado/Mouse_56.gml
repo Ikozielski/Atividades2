@@ -1,1 +1,1 @@
-mouseSobre = false;
+arrastando = false;
