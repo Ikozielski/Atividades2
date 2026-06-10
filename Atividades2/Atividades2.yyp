@@ -49,6 +49,7 @@
     {"id":{"name":"obj_controler","path":"objects/obj_controler/obj_controler.yy",},},
     {"id":{"name":"rm_atividade_1","path":"rooms/rm_atividade_1/rm_atividade_1.yy",},},
     {"id":{"name":"rm_atividade_2","path":"rooms/rm_atividade_2/rm_atividade_2.yy",},},
+    {"id":{"name":"rm_atividade_3","path":"rooms/rm_atividade_3/rm_atividade_3.yy",},},
     {"id":{"name":"spr_atividade_1_quadrado","path":"sprites/spr_atividade_1_quadrado/spr_atividade_1_quadrado.yy",},},
     {"id":{"name":"spr_atividade_2_pc","path":"sprites/spr_atividade_2_pc/spr_atividade_2_pc.yy",},},
   ],
@@ -57,6 +58,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_atividade_1","path":"rooms/rm_atividade_1/rm_atividade_1.yy",},},
     {"roomId":{"name":"rm_atividade_2","path":"rooms/rm_atividade_2/rm_atividade_2.yy",},},
+    {"roomId":{"name":"rm_atividade_3","path":"rooms/rm_atividade_3/rm_atividade_3.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
