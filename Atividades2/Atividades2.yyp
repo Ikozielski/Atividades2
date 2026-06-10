@@ -46,6 +46,7 @@
   "resources":[
     {"id":{"name":"obj_atividade_1_quadrado","path":"objects/obj_atividade_1_quadrado/obj_atividade_1_quadrado.yy",},},
     {"id":{"name":"obj_atividade_2_pc","path":"objects/obj_atividade_2_pc/obj_atividade_2_pc.yy",},},
+    {"id":{"name":"obj_atividade_3_","path":"objects/obj_atividade_3_/obj_atividade_3_.yy",},},
     {"id":{"name":"obj_controler","path":"objects/obj_controler/obj_controler.yy",},},
     {"id":{"name":"rm_atividade_1","path":"rooms/rm_atividade_1/rm_atividade_1.yy",},},
     {"id":{"name":"rm_atividade_2","path":"rooms/rm_atividade_2/rm_atividade_2.yy",},},
