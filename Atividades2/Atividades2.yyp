@@ -52,8 +52,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_atividade_2","path":"rooms/rm_atividade_2/rm_atividade_2.yy",},},
     {"roomId":{"name":"rm_atividade_1","path":"rooms/rm_atividade_1/rm_atividade_1.yy",},},
+    {"roomId":{"name":"rm_atividade_2","path":"rooms/rm_atividade_2/rm_atividade_2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
