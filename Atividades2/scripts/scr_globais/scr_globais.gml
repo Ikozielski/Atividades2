@@ -1,0 +1,1 @@
+velocidadeBolas = 2

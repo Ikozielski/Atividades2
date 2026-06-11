@@ -1,0 +1,2 @@
+aplicaMovimento();
+checaLimite();
